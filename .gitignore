@@ -1,0 +1,16 @@
+# Ignorer le dossier 'vendor' dans le dossier 'api'
+api/vendor/
+
+# Ignorer les fichiers générés par l'éditeur de texte
+*.swp
+*.swo
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers temporaires ou de sauvegarde
+*.bak
+*.tmp
+
+# Ignorer les fichiers PHP de session
+*.sess
